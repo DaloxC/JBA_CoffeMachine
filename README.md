@@ -17,5 +17,4 @@ Java Project "CoffeeMachine"
 ✅ <A HREF="https://github.com/DaloxC/JBA_CoffeMachine/blob/master/src/machine/stage6/MasterCoffeeMachine.java"> Finish Code Project! </A>
 
 ## DaloxC 🤙
-Do you want to follow my learning path?
-<A HREF="https//hyperskill.org/join/d4fba295d"> Invitation to the course! </A> 🚀
+Do you want to follow my learning path? <A HREF="https//hyperskill.org/join/d4fba295d"> Invitation to the course! </A> 🚀
